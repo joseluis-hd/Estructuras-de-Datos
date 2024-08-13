@@ -1,7 +1,7 @@
 
 # Estructuras de Datos
 
-Curso de Estructuras de Datos impartido por el Dr. Alfredo Gútierrez Hernández en el semestre 2024A. Aquí en contrarás todas las actividades completascon los requerimientos solicitados. 
+Curso de Estructuras de Datos impartido por el Dr. Alfredo Gútierrez Hernández en el semestre 2024A. Aquí en contrarás todas las actividades completas con los requerimientos solicitados. 
 
 
 
